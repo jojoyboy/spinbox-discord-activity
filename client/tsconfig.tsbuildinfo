@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/discord.ts","./src/main.tsx","./src/presets.ts","./src/sound.ts","./src/types.ts","./src/vite-env.d.ts","./src/components/activityeditor.tsx","./src/components/openboxes.tsx","./src/components/randomcards.tsx","./src/components/spinwheel.tsx"],"version":"5.9.3"}
